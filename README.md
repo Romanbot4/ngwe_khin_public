@@ -17,7 +17,7 @@ Ngwe Khin Expense Manager is a mobile app designed to help users track their exp
 
 ## Download
 <p align="left">
-  <a href="https://github.com/Romanbot4/ngwe_khin_public/releases/download/v1.0.0/NgweKhin-v1.0.0-universal-release.apk" download>
+  <a href="https://github.com/Romanbot4/ngwe_khin_public/releases/download/v1.1.0/NgweKhin-v1.1.0-universal-release.apk" download>
     <img src="https://img.shields.io/github/downloads/Romanbot4/ngwe_khin_public/total?color=green&label=Download%20For%20Android">
   </a>
 </p>

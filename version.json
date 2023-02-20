@@ -1,9 +1,12 @@
 {
     "name": "Ngwe Khin",
-    "major": 0,
-    "minor": 0,
-    "patch": 1,
-    "channel": "beta",
-    "changelogs": [],
-    "android_link":"https://github.com/Romanbot4/ngwe_khin_public/releases/download/v1.0.0/NgweKhin-v1.0.0-universal-release.apk"
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "channel": "stable",
+    "changelogs": [
+        "- added details page"
+    ],
+    "android_link": "https://github.com/Romanbot4/ngwe_khin_public/releases/download/v1.1.0/NgweKhin-v1.1.0-universal-release.apk",
+    "forced": false
 }
