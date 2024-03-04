@@ -17,17 +17,19 @@ Ngwe Khin Expense Manager is a mobile app designed to help users track their exp
 
 ## Download
 <p align="left">
-  <a href="https://github.com/Romanbot4/ngwe_khin_public/releases/download/v1.1.0/NgweKhin-v1.1.0-universal-release.apk" download>
+  <a href="https://github.com/Romanbot4/ngwe_khin_public/releases/download/v1.2.0/NgweKhin-v1.2.0-universal-release.apk" download>
     <img src="https://img.shields.io/github/downloads/Romanbot4/ngwe_khin_public/total?color=green&label=Download%20For%20Android">
   </a>
 </p>
 
 ## Screenshots
 
-<img src="https://github.com/Romanbot4/ngwe_khin_public/blob/master/screenshots/screenshot01.png?raw=true" alt="screenshot1" width="22%"></img>
-<img src="https://github.com/Romanbot4/ngwe_khin_public/blob/master/screenshots/screenshot02.png?raw=true" alt="screenshot2" width="22%"></img>
-<img src="https://github.com/Romanbot4/ngwe_khin_public/blob/master/screenshots/screenshot03.png?raw=true" alt="screenshot3" width="22%"></img>
-<img src="https://github.com/Romanbot4/ngwe_khin_public/blob/master/screenshots/screenshot04.png?raw=true" alt="screenshot4" width="22%"></img>
+<img src="https://github.com/Romanbot4/ngwe_khin_public/blob/master/screenshots/screenshot01.jpg?raw=true" alt="screenshot1" width="30%"></img>
+<img src="https://github.com/Romanbot4/ngwe_khin_public/blob/master/screenshots/screenshot02.jpg?raw=true" alt="screenshot2" width="30%"></img>
+<img src="https://github.com/Romanbot4/ngwe_khin_public/blob/master/screenshots/screenshot03.jpg?raw=true" alt="screenshot3" width="30%"></img>
+<img src="https://github.com/Romanbot4/ngwe_khin_public/blob/master/screenshots/screenshot04.jpg?raw=true" alt="screenshot4" width="30%"></img>
+<img src="https://github.com/Romanbot4/ngwe_khin_public/blob/master/screenshots/screenshot05.jpg?raw=true" alt="screenshot5" width="30%"></img>
+<img src="https://github.com/Romanbot4/ngwe_khin_public/blob/master/screenshots/screenshot06.jpg?raw=true" alt="screenshot6" width="30%"></img>
 
 ## License
 
