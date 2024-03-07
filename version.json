@@ -9,5 +9,5 @@
         "updates:\nminor UI update."
     ],
     "android_link": "https://github.com/Romanbot4/ngwe_khin_public/releases/download/v1.2.0/NgweKhin-v1.2.0-universal-release.apk",
-    "forced": false
+    "forced": true
 }
